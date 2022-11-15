@@ -1,0 +1,88 @@
+.nav{
+    background-color: #171d4b;
+}
+
+.nav a{
+    color: white;
+}
+
+.collapse{
+    padding-left: 80px;
+}
+
+.contain1{
+    background-color: #f8f5e6;
+}
+
+.abtme{
+    padding-top: 15rem;
+}
+
+.abtme h1{
+    color: #171d4b;
+    font-size: 50px;
+}
+
+.abtme p{
+    font-size: 20px;
+}
+
+.pasfoto img{
+    height: 37rem;
+}
+
+.contain2{
+    padding-top: 7rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 7rem;
+}
+
+.skill{
+    display: flex;
+    gap: 2rem;
+}
+
+.pskil{
+   padding-bottom: 3rem;
+   font-size: 90px;
+   color: #171d4b;
+}
+
+.card img{
+    height: 10rem;
+}
+
+.contain3{
+    background-color: #171d4b;
+    padding-top: 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-bottom: 7rem;
+}
+
+.contain3 .row h1{
+    padding-bottom: 2rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.contain3 .row{
+    align-items: center;
+    justify-content: center;
+}
+
+
+.cardc3{
+    color: black;
+    text-align: justify;
+    padding: 2rem;
+}
+
+.cardc3 h3:nth-child(2){
+    padding-bottom: 1rem;
+}
