@@ -1,0 +1,15 @@
+.nav{
+    background-color: #171d4b;
+}
+
+.nav a{
+    color: white;
+}
+
+.collapse{
+    padding-left: 80px;
+}
+
+.info1{
+    padding-top: 10rem;
+}

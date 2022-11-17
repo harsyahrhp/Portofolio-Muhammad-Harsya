@@ -1,0 +1,48 @@
+body h1,h2,h3,h4,h5,h5,p{
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    background-color: #171d4b;
+}
+
+.nav a{
+    color: white;
+}
+
+.collapse{
+    padding-left: 80px;
+}
+
+.contain1{
+    background-color: #f8f5e6;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.imgdanbam{
+    align-items: center;
+    padding-left: 5rem;
+}
+
+.title{
+    padding-top: 8rem;
+}
+
+.contain2{
+    background-color: #f8f5e6;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.imgbyz{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.title2{
+    padding-top: 4rem;
+}
+
+.imgmed{
+    padding-left: 2rem;
+}
