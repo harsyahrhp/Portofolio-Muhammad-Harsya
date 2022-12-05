@@ -97,6 +97,6 @@
     padding-bottom: 1rem;
 }
 
-.exp{
-    gap: 2rem;
+.exp .row{
+    padding-bottom: 2rem;
 }
