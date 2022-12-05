@@ -6,6 +6,10 @@
     color: white;
 }
 
+.navbar-toggler{
+    background-color: white !important;
+}
+
 .collapse{
     padding-left: 80px;
 }
@@ -13,10 +17,13 @@
 .contain1{
     background-color: #f8f5e6;
     font-family: 'Roboto', sans-serif;
+    padding-top: 0;
 }
 
+
+
 .abtme{
-    padding-top: 15rem;
+    padding-top: 7rem;
 }
 
 .abtme h1{
@@ -29,7 +36,7 @@
 }
 
 .pasfoto img{
-    height: 37rem;
+    height: 27rem;
 }
 
 .contain2{
@@ -88,4 +95,8 @@
 
 .cardc3 h3:nth-child(2){
     padding-bottom: 1rem;
+}
+
+.exp{
+    gap: 2rem;
 }

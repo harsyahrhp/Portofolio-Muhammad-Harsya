@@ -13,10 +13,14 @@ body h1,h2,h3,h4,h5,h5,p{
     padding-left: 80px;
 }
 
+.navbar-toggler{
+    background-color: white !important;
+}
+
 .contain1{
     background-color: #f8f5e6;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .imgdanbam{
@@ -30,8 +34,8 @@ body h1,h2,h3,h4,h5,h5,p{
 
 .contain2{
     background-color: #f8f5e6;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .imgbyz{

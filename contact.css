@@ -2,6 +2,10 @@
     background-color: #171d4b;
 }
 
+.navbar-toggler{
+    background-color: white !important;
+}
+
 .nav a{
     color: white;
 }
