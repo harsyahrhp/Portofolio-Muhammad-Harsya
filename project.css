@@ -50,3 +50,18 @@ body h1,h2,h3,h4,h5,h5,p{
 .imgmed{
     padding-left: 2rem;
 }
+
+.imgdanbam img{
+    max-width: 100%;
+    height: auto;
+}
+
+.imgbyz img{
+    max-width: 100%;
+    height: auto;
+}
+
+.imgmed img{
+    max-width: 100%;
+    height: auto;
+}
